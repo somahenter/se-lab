@@ -8,6 +8,13 @@ import java.util.Random;
 * (Deliberately contains bugs.)
 */
 public class TorpedoStore {
+  /*
+   * 
+   * 
+   * Komment ;)
+   * 
+   * 
+   */
   Random generator = new Random();
 
   // rate of failing to fire torpedos [0.0, 1.0]
